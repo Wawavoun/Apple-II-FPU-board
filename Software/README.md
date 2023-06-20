@@ -1,5 +1,5 @@
 A library for use the board with Microsoft Bascom (Basic compiler) and Fortran-80.
-I have test it under CPM Plus.
+I have test it under CPM 2.2.
 
 Usage :
 
