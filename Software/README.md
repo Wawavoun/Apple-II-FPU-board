@@ -6,6 +6,8 @@ Usage :
 1_ compile library sources (after adjusting the FPU address into am9511.mac)
 m80 = am9511.mac/L --> am9511.rel
 m80 =apu.mac/L --> apu.rel
+The address to use depend of the slot you use into the Apple II.
+I have use slot 1.
 
 2_ create the library
 lib80 libapu.rel=am9511.rel,apu.rel/e --> libapu.rel
