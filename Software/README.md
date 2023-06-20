@@ -11,11 +11,11 @@ m80 =apu.mac/L --> apu.rel
 lib80 libapu.rel=am9511.rel,apu.rel/e --> libapu.rel
 
 3_ compile a basic test program
-bascom =aputst.bas/o/l --> aputst.rel
+bascom =btest.bas/o/l --> btest.rel
 
 4 link with or without the library (for use ou not the fpu)
-(with) l80 aputst.rel,libapu.rel,aputst.com/n/y/e
-or (without) l80 aputst.rel,aputst.com/n/y/e --> aputst.com
+(with) l80 btest.rel,libapu.rel,aputst.com/n/y/e
+or (without) l80 btest.rel,aputst.com/n/y/e --> btest.com
 
 and check speed improvment !
 
