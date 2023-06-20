@@ -1,6 +1,6 @@
 This is information about a FPU board I made for my Apple IIe.
 
-I do that because I want one usable with DOS 3.3 and with CPM and my Z80 Softcard.
+I do that because I want one usable with DOS 3.3 and with CPM + Z80 Softcard.
 
 They use AMD AM9511 / Intel C8231.
 
