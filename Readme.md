@@ -11,6 +11,8 @@ J4 must be put to GND (as on the picture).
 The board can be set for 4 MHz clock or 2 MHz clock (J3 jumper).
 Usually AMD --> 2 MHz, INTEL --> 4 MHz but double check the exact reference of your FPU. 
 
+It is largely inspired from the Microcrunch from John Hart.
+
 Have fun !
 
 20/06/2023
