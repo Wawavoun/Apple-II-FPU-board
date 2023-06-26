@@ -1,1 +1,1 @@
-Pictures of the board (V1)
+Pictures of the board.
